@@ -1,4 +1,4 @@
-# Roteamento De Pacotes
+# Grafos 1 - Online Judge Leet Code
 
 **Número da Lista**: X<br>
 **Conteúdo da Disciplina**: Grafos 1<br>
@@ -10,7 +10,7 @@
 | 20/0061216  |  Cleber de Oliveira Brant |
 
 ## Sobre 
-Consiste em demonstrar em como a busca em largura funciona também no contexto de pacotes de roteamento.
+Esse trabalho consiste na resolução de 3 questões difíceis que encontramos na plataforma Leet Code.
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
