@@ -17,7 +17,7 @@ Esse trabalho consiste na resolução de 3 questões difíceis que encontramos n
 ## Screenshots
 
 ### 1494. Parallel Courses II
-![ParallelCourses](./1494/ParallelCourses/1494-Parallel%20Courses.jpeg)
+![ParallelCourses](Grafos/1494-Parallel%20Courses.jpeg)
 
 
 ## Instalação 
