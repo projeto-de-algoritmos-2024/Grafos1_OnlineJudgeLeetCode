@@ -13,11 +13,15 @@
 Esse trabalho consiste na resolução de 3 questões difíceis que encontramos na plataforma Leet Code.
 
 - [1494. Parallel Courses II](https://leetcode.com/problems/parallel-courses-ii/description/)
+- [2876. Count Visited Nodes in a Directed Graph](https://leetcode.com/problems/count-visited-nodes-in-a-directed-graph/description/)
 
 ## Screenshots
 
 ### 1494. Parallel Courses II
-![ParallelCourses](Grafos/1494-Parallel%20Courses.jpeg)
+![ParallelCourses](./Grafos/src/ParallelCourse/1494-Parallel%20Courses.jpeg)
+
+### 2876. Count Visited Nodes in a Directed Graph
+![ParallelCourses](./Grafos/src/CountVisited/2876.%20Count%20Visited%20Nodes.jpeg)
 
 
 ## Instalação 
@@ -37,6 +41,7 @@ Além de executar os exercícios pela sua IDE, também pode executar eles dentro
 Logo abaixo está o link dos exercícios no Juiz Online Leet Code:
 
 - [1494. Parallel Courses II](https://leetcode.com/problems/parallel-courses-ii/description/)
+- [2876. Count Visited Nodes in a Directed Graph](https://leetcode.com/problems/count-visited-nodes-in-a-directed-graph/description/)
 
 **Observação**: é necessário que crie uma conta dentro do Leet Code para que possa submeter o código no Juiz Online.
 
