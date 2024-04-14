@@ -14,6 +14,7 @@ Esse trabalho consiste na resolução de 3 questões difíceis que encontramos n
 
 - [1494. Parallel Courses II](https://leetcode.com/problems/parallel-courses-ii/description/)
 - [2876. Count Visited Nodes in a Directed Graph](https://leetcode.com/problems/count-visited-nodes-in-a-directed-graph/description/)
+- [685. Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/description/)
 
 ## Screenshots
 
