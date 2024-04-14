@@ -43,8 +43,7 @@ Link dos exercícios no Juiz Online Leet Code:
 - [685. Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/description/)
 - [2603. Collect Coins in a Tree](https://leetcode.com/problems/collect-coins-in-a-tree/description/)
 
-### Uso local
-**Linguagem**: Java 17<br>
+## Uso local
 Para poder rodar os exercícios de forma local, é necessário que tenha instalado em seu computador o **JDK 17** e variáveis de ambiente configuradas.
 
 É necessário que clone o projeto a partir do comando abaixo:
