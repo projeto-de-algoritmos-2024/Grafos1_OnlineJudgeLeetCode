@@ -31,9 +31,6 @@ O trabalho do modulo 1 consiste na resolução de 4 questões difíceis de grafo
 ### 2603. Collect Coins in a Tree
 ![ParallelCourses](./Grafos/src/CollectCoins/printCollectCoins.png)
 
-## Instalação local
-**Linguagem**: Java 17<br>
-
 ## Uso no Leet Code
 É recomendado que a Solution dos exercícios seja executada diretamente no juiz online Leet Code, copiando os códigos Solution.java de cada pasta(retirar apenas o package na primeira linha) destinada para cada questão, onde haverá maior carga de testes para visualizar o retorno do código submetido.
 
@@ -46,7 +43,8 @@ Link dos exercícios no Juiz Online Leet Code:
 - [685. Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/description/)
 - [2603. Collect Coins in a Tree](https://leetcode.com/problems/collect-coins-in-a-tree/description/)
 
-## Uso localmente
+### Uso local
+**Linguagem**: Java 17<br>
 Para poder rodar os exercícios de forma local, é necessário que tenha instalado em seu computador o **JDK 17** e variáveis de ambiente configuradas.
 
 É necessário que clone o projeto a partir do comando abaixo:
