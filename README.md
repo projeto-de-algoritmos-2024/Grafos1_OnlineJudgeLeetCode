@@ -23,6 +23,9 @@ Esse trabalho consiste na resolução de 3 questões difíceis que encontramos n
 ### 2876. Count Visited Nodes in a Directed Graph
 ![ParallelCourses](./Grafos/src/CountVisited/2876.%20Count%20Visited%20Nodes.jpeg)
 
+### 685. Redundant Connection II
+![ParallelCourses](./Grafos/src/RedundantConnection/printRedudantConnectionSubmit.png)
+
 
 ## Instalação 
 **Linguagem**: Java 17<br>
@@ -42,6 +45,7 @@ Logo abaixo está o link dos exercícios no Juiz Online Leet Code:
 
 - [1494. Parallel Courses II](https://leetcode.com/problems/parallel-courses-ii/description/)
 - [2876. Count Visited Nodes in a Directed Graph](https://leetcode.com/problems/count-visited-nodes-in-a-directed-graph/description/)
+- [685. Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/description/)
 
 **Observação**: é necessário que crie uma conta dentro do Leet Code para que possa submeter o código no Juiz Online.
 
