@@ -8,7 +8,6 @@
 | 20/0061216  |  Cleber de Oliveira Brant |
 | 20/0044559  |  Wesley Lira Carvalho |
 
-
 ## Sobre 
 O trabalho do modulo 1 consiste na resolução de 4 questões difíceis de grafos que encontramos na plataforma Leet Code.
 
@@ -49,3 +48,6 @@ Para poder rodar os exercícios de forma local, é necessário que tenha instala
 É necessário que clone o projeto a partir do comando abaixo:
 
 > git clone https://github.com/projeto-de-algoritmos-2024/Grafos1_OnlineJudgeLeetCode.git
+
+## Outros
+- [Link apresentação](https://www.youtube.com/watch?v=9Ws1Xu0pqQg)
